@@ -9,4 +9,8 @@ class AppController extends Controller
     public function getApp(){
         return view('app');
     }
+    
+    public function getLogin(){
+        return view('app');
+    }
 }

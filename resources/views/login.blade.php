@@ -9,5 +9,11 @@
         <a href="/login/google">
             Log In With Google
         </a>
+        <a href="/login/twitter">
+            Log In With Twitter
+        </a>
+        <a href="/login/facebook">
+            Log In With Facebook
+        </a>
     </body>
 </html>
